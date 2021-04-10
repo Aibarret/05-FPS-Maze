@@ -1,2 +1,17 @@
 # 05-FPS-Maze
-Project 05 for MSCH-C220
+Project for MSCH-C220, 4/10/2021
+
+A 3D FPS Maze
+## Implementation
+Built using Godot 3.2.3
+
+
+## References
+Models created by Kenny
+
+## Future Development
+A health bar, maybe a run button
+
+## Created by 
+Aidan Barrett
+
