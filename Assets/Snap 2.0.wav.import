@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Snap 2.0.wav-73a7f9284b398e23ae51326205587e48.sample"
+
+[deps]
+
+source_file="res://Assets/Snap 2.0.wav"
+dest_files=[ "res://.import/Snap 2.0.wav-73a7f9284b398e23ae51326205587e48.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
