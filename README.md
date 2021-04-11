@@ -7,7 +7,7 @@ Built using Godot 3.2.3
 
 
 ## References
-Models created by Kenny
+Models created by Kenny, Music and Sound Effects created by myself
 
 ## Future Development
 A health bar, maybe a run button
